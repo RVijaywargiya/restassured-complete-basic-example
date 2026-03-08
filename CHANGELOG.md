@@ -12,6 +12,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Thread-safe caching JUnit Extension mechanism in `EnvironmentAvailabilityExtension` to ensure the health check runs
   only once per test suite execution.
 
+### Changed
+
+- Updated the following dependencies
+    - `maven-compiler-plugin.version -> 3.15.0`
+    - `junit.jupiter.version -> 6.0.3`
+    - `assertj.version -> 3.27.7`
+    - `datafaker.version -> 2.5.4`
+    - `allure.version -> 2.33.0`
+    - `commons-codec.version -> 1.21.0`
+    - `jackson-databind.version -> 2.21.1`
+    - `rhino.version -> 1.9.1`
+
 ## [2.7.0] - 04-01-2026
 
 ### Changed
